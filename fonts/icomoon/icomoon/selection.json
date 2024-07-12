@@ -9235,7 +9235,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"info-with-circle"
+					"Om-with-circle"
 				],
 				"grid": 20
 			},
@@ -9245,7 +9245,7 @@
 				"order": 352,
 				"prevSize": 20,
 				"code": 59840,
-				"name": "info-with-circle"
+				"name": "Om-with-circle"
 			},
 			"setIdx": 2,
 			"setId": 1,
@@ -9259,7 +9259,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"info"
+					"Om"
 				],
 				"grid": 20
 			},
@@ -9269,7 +9269,7 @@
 				"order": 353,
 				"prevSize": 20,
 				"code": 59841,
-				"name": "info"
+				"name": "Om"
 			},
 			"setIdx": 2,
 			"setId": 1,
@@ -21566,8 +21566,8 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"info",
-					"information"
+					"Om",
+					"Omrmation"
 				],
 				"grid": 16
 			},
@@ -21575,8 +21575,8 @@
 			"properties": {
 				"order": 814,
 				"prevSize": 16,
-				"ligatures": "info, information",
-				"name": "info2",
+				"ligatures": "Om, Omrmation",
+				"name": "Om2",
 				"id": 269,
 				"code": 60362
 			},

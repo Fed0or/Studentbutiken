@@ -60,8 +60,8 @@
   @include alert-variant($alert-success-bg, $alert-success-border, $alert-success-text);
 }
 
-.alert-info {
-  @include alert-variant($alert-info-bg, $alert-info-border, $alert-info-text);
+.alert-Om {
+  @include alert-variant($alert-Om-bg, $alert-Om-border, $alert-Om-text);
 }
 
 .alert-warning {

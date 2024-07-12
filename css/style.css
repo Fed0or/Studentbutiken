@@ -304,21 +304,21 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-.btn-info {
+.btn-Om {
   background: #5bc0de;
   color: #fff;
   border: 2px solid #5bc0de;
 }
-.btn-info:hover, .btn-info:focus, .btn-info:active {
+.btn-Om:hover, .btn-Om:focus, .btn-Om:active {
   background: #46b8da !important;
   border-color: #46b8da !important;
 }
-.btn-info.btn-outline {
+.btn-Om.btn-outline {
   background: transparent;
   color: #5bc0de;
   border: 2px solid #5bc0de;
 }
-.btn-info.btn-outline:hover, .btn-info.btn-outline:focus, .btn-info.btn-outline:active {
+.btn-Om.btn-outline:hover, .btn-Om.btn-outline:focus, .btn-Om.btn-outline:active {
   background: #5bc0de;
   color: #fff;
 }
@@ -879,25 +879,25 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   font-size: 20px;
 }
 
-.contact-info {
+.contact-Om {
   margin-bottom: 4em;
   padding: 0;
 }
-.contact-info li {
+.contact-Om li {
   list-style: none;
   margin: 0 0 20px 0;
   position: relative;
   padding-left: 40px;
   color: #727272;
 }
-.contact-info li i {
+.contact-Om li i {
   position: absolute;
   top: .3em;
   left: 0;
   font-size: 22px;
   color: #727272;
 }
-.contact-info li a {
+.contact-Om li a {
   color: #727272;
 }
 

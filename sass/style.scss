@@ -375,20 +375,20 @@ h1, h2, h3, h4, h5, h6 {
 		}
 	}
 }
-.btn-info {
-	background: $brand-info;
+.btn-Om {
+	background: $brand-Om;
 	color: $brand-white;
-	border: 2px solid $brand-info;
+	border: 2px solid $brand-Om;
 	&:hover, &:focus, &:active {
-		background: darken($brand-info, 5%)!important;
-		border-color: darken($brand-info, 5%)!important;
+		background: darken($brand-Om, 5%)!important;
+		border-color: darken($brand-Om, 5%)!important;
 	}
 	&.btn-outline {
 		background: transparent;
-		color: $brand-info;
-		border: 2px solid $brand-info;
+		color: $brand-Om;
+		border: 2px solid $brand-Om;
 		&:hover, &:focus, &:active {
-			background: $brand-info;
+			background: $brand-Om;
 			color: $brand-white;
 		}
 	}
@@ -938,7 +938,7 @@ header{
 }
 
 // Contact
-.contact-info{
+.contact-Om{
 	margin-bottom: 4em;
 	padding: 0;
 	li{

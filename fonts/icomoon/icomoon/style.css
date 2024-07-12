@@ -1077,10 +1077,10 @@
 .icon-infinity:before {
     content: "\e9bf";
 }
-.icon-info-with-circle:before {
+.icon-Om-with-circle:before {
     content: "\e9c0";
 }
-.icon-info:before {
+.icon-Om:before {
     content: "\e9c1";
 }
 .icon-key2:before {
@@ -2463,7 +2463,7 @@
 .icon-minus2:before {
     content: "\ebc9";
 }
-.icon-info2:before {
+.icon-Om2:before {
     content: "\ebca";
 }
 .icon-cancel-circle:before {
