@@ -21567,7 +21567,7 @@
 				"isMulticolor": false,
 				"tags": [
 					"Om",
-					"Omrmation"
+					"Information"
 				],
 				"grid": 16
 			},
@@ -21575,7 +21575,7 @@
 			"properties": {
 				"order": 814,
 				"prevSize": 16,
-				"ligatures": "Om, Omrmation",
+				"ligatures": "Om, Information",
 				"name": "Om2",
 				"id": 269,
 				"code": 60362
